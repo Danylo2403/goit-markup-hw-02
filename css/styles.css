@@ -26,7 +26,6 @@ body {
 .header-link:focus {
   color: #404bbf;
 }
-
 .btn:hover,
 .btn-link:focus {
   background-color: #404bbf;
@@ -48,7 +47,6 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-
 .strategy-item-title {
   font-weight: 500;
   font-size: 20px;
@@ -56,7 +54,6 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-
 .list {
   list-style: none;
 }
@@ -79,11 +76,9 @@ body {
 }
 
 /*----------HEADER----------*/
-
 .header {
   background-color: #e7e9fc;
 }
-
 .header-link {
   font-weight: 500;
   font-size: 16px;
@@ -91,13 +86,11 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-
 .header-link {
 }
 
 .header-navigation {
 }
-
 .header-logo {
   font-family: "Raleway", sans-serif;
   font-style: normal;
@@ -123,13 +116,10 @@ body {
   text-transform: uppercase;
   color: #2e2f42;
 }
-
 .header-list {
 }
-
 .header-item {
 }
-
 .header-address {
   font-style: normal;
   font-weight: 400;
@@ -145,11 +135,9 @@ body {
 }
 
 /*----------HERO----------*/
-
 .hero {
   background: #2e2f42;
 }
-
 .hero-title {
   font-size: 56px;
   line-height: 1.07;
@@ -157,28 +145,20 @@ body {
   letter-spacing: 0.02em;
   color: #ffffff;
 }
-
 .header-btn {
   font-family: "Roboto", sans-serif;
   color: #ffffff;
   background-color: #4d5ae5;
 }
 
-.hero-btn:focus {
-  background-color: #404bbf;
-}
-
 /*----------strategy----------*/
 
 .strategy {
 }
-
-.strategy-title {
-}
-
 .about-title {
 }
-
+.visually-hidden {
+}
 .strategy-list {
 }
 
@@ -197,15 +177,13 @@ body {
 .foto-title {
   color: var(--second-title-color);
 }
-
 .foto-list {
 }
-
 .foto-item {
 }
 /*----------team----------*/
 .team {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
 }
 .team-title {
   color: var(--second-title-color);
@@ -215,6 +193,7 @@ body {
 .team-title-text {
   color: var(--first-title-color);
 }
+
 .team-item-title {
   font-weight: 500;
   font-size: 20px;
@@ -223,10 +202,9 @@ body {
   letter-spacing: 0.02em;
   color: var(--second-title-color);
 }
-.team-item {
-  background-color: #ffffff;
-}
+
 /* footer */
+
 .footer {
   background-color: #2e2f42;
 }
@@ -242,6 +220,7 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
+
 .footer-logo-web {
   font-family: "Raleway", sans-serif;
   font-style: normal;
@@ -257,6 +236,7 @@ body {
 .footer-item-text {
   color: #f4f4fd;
 }
+
 /* Портфоліо */
 .gallery-btn {
   font-family: "Roboto", sans-serif;
@@ -265,6 +245,7 @@ body {
 .galery-text {
   color: var(--first-title-color);
 }
+
 .gellery {
 }
 .gallery-list {
@@ -275,11 +256,6 @@ body {
 }
 .gallery-btn {
   color: #4d5ae5;
-  background-color: #f4f4fd;
-}
-.gallery-btn:focus {
-  color: #ffffff;
-  background-color: #404bbf;
 }
 .gallery-foto-list {
 }
