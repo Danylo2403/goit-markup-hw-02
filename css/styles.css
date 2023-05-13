@@ -10,6 +10,8 @@ body {
 }
 
 .btn {
+  font-family: "Roboto";
+  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -242,4 +244,38 @@ body {
 }
 .galery-text {
   color: var(--first-title-color);
+}
+
+.gellery {
+}
+.gallery-list {
+}
+.list {
+}
+.gallery-item {
+}
+.gallery-btn {
+  color: #4d5ae5;
+}
+.gallery-foto-list {
+}
+.gallery-foto-item {
+}
+.gallery-item-title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.gallery-title-text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
