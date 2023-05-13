@@ -273,10 +273,9 @@ body {
 }
 .gallery-btn:focus {
   background-color: #404bbf;
-}
-.gallery-btn:active {
   color: #ffffff;
 }
+
 .gallery-foto-list {
 }
 .gallery-foto-item {
