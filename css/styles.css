@@ -150,19 +150,15 @@ body {
   color: #ffffff;
   background-color: #4d5ae5;
 }
-.hero-btn:focus {
-  background-color: #404bbf;
-}
 
 /*----------strategy----------*/
 
 .strategy {
 }
-.strategy-title {
-}
 .about-title {
 }
-
+.visually-hidden {
+}
 .strategy-list {
 }
 
@@ -187,7 +183,7 @@ body {
 }
 /*----------team----------*/
 .team {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
 }
 .team-title {
   color: var(--second-title-color);
@@ -205,10 +201,6 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: var(--second-title-color);
-}
-
-.team-item {
-  background-color: #ffffff;
 }
 
 /* footer */
@@ -264,11 +256,6 @@ body {
 }
 .gallery-btn {
   color: #4d5ae5;
-  background-color: #f4f4fd;
-}
-.gallery-btn:focus {
-  color: #ffffff;
-  background-color: #404bbf;
 }
 .gallery-foto-list {
 }
